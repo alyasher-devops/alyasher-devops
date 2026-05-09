@@ -24,3 +24,85 @@ I specialize in:
 - Supporting AI/ML infrastructure and GPU-enabled workloads
 - Optimizing CI/CD pipelines and deployment reliability
 - Implementing scalable monitoring, alerting & incident response systems
+
+
+## ⚡ Impact Highlights
+
+- 🚀 Improved deployment reliability across Kubernetes production environments
+- 💰 Reduced operational overhead through infrastructure automation
+- ⚡ Accelerated CI/CD release workflows using GitHub Actions & ArgoCD
+- 📉 Improved observability and reduced incident resolution time
+- 🔐 Strengthened cloud security posture through DevSecOps automation
+- 📦 Standardized infrastructure provisioning using Terraform modules
+- ☁️ Managed scalable AWS, Azure & GCP cloud environments
+- 🤖 Supported AI/ML infrastructure and GPU-based workloads at scale
+
+
+## 🔭 Current Focus
+
+- Kubernetes Platform Engineering
+- GitOps & Infrastructure Automation
+- Multi-Cloud Infrastructure Operations
+- Cloud Security & DevSecOps
+- AI/ML Infrastructure Reliability
+- Observability & SRE Best Practices
+- Infrastructure Scalability & Resilience
+- Cloud Cost Optimization & FinOps
+
+
+## 🤝 Open To Collaborate On
+
+- Kubernetes Infrastructure Projects
+- Terraform Automation Frameworks
+- DevSecOps & Secure CI/CD Pipelines
+- Observability & Monitoring Platforms
+- Platform Engineering Initiatives
+- AI/ML Infrastructure Operations
+- Open Source DevOps Tooling
+- Cloud-Native Infrastructure Solutions
+
+
+## 🌱 Currently Exploring
+
+- AI Infrastructure & GPU Orchestration
+- Platform Engineering Architectures
+- Kubernetes Autoscaling & Optimization
+- Infrastructure Policy as Code
+- Advanced Observability & OpenTelemetry
+- GitOps at Enterprise Scale
+- Cloud Security Automation
+- Distributed Systems Reliability Engineering
+
+
+## 💬 Ask Me About
+
+- Kubernetes, EKS & GKE
+- Terraform & Infrastructure as Code
+- GitHub Actions & Jenkins
+- GitOps using ArgoCD & Helm
+- Prometheus, Grafana & Datadog
+- AWS, Azure & GCP
+- DevSecOps & Cloud Security
+- CI/CD Automation
+- Kubernetes Monitoring & Observability
+- Infrastructure Automation using Python & Bash
+- Cloud-Native Platform Engineering
+- Site Reliability Engineering Best Practices
+
+
+## 🏗️ Architecture Interests
+
+- Cloud-Native Infrastructure
+- Kubernetes Platform Engineering
+- Distributed Systems Reliability
+- Infrastructure Automation
+- GitOps & Platform Operations
+- Observability Engineering
+- AI/ML Infrastructure Platforms
+- DevSecOps & Zero Trust Security
+- Multi-Cloud Architecture
+- High Availability & Disaster Recovery
+- Event-Driven Infrastructure Systems
+- Infrastructure Scalability & Resilience
+
+
