@@ -9,3 +9,18 @@ Senior Site Reliability Engineer | DevOps | Kubernetes | Cloud Infrastructure
 </p>
 
 ---
+
+## 🚀 About Me
+
+Senior Site Reliability Engineer with 10+ years of experience designing, automating, and operating scalable cloud-native infrastructure across SaaS, healthcare, AI/ML, and enterprise environments.
+
+I specialize in:
+
+- Building highly available Kubernetes & cloud platforms
+- Designing scalable multi-cloud infrastructure across AWS, Azure & GCP
+- Automating infrastructure provisioning using Terraform & GitOps
+- Improving observability using Prometheus, Grafana & OpenTelemetry
+- Securing cloud-native platforms through DevSecOps practices
+- Supporting AI/ML infrastructure and GPU-enabled workloads
+- Optimizing CI/CD pipelines and deployment reliability
+- Implementing scalable monitoring, alerting & incident response systems
