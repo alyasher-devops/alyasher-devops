@@ -254,11 +254,10 @@ Supported GPU-enabled AI/ML infrastructure across AWS and GCP environments using
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyasher-devops&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alyasher-devops&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasher-devops&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyasher-devops&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
