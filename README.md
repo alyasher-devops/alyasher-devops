@@ -5,6 +5,10 @@ Senior Site Reliability Engineer | DevOps | Kubernetes | Cloud Infrastructure
 </h3>
 
 <p align="center">
+Designing resilient cloud-native platforms, scalable Kubernetes infrastructure, and enterprise-grade DevOps automation across AWS, Azure & GCP.
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=alyasher-devops&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
 </p>
 
@@ -12,31 +16,35 @@ Senior Site Reliability Engineer | DevOps | Kubernetes | Cloud Infrastructure
 
 ## 🚀 About Me
 
-Senior Site Reliability Engineer with 10+ years of experience designing, automating, and operating scalable cloud-native infrastructure across SaaS, healthcare, AI/ML, and enterprise environments.
+Senior Site Reliability Engineer with 10+ years of experience building, automating, and operating large-scale cloud infrastructure across SaaS, healthcare, AI/ML, and enterprise environments.
 
 I specialize in:
 
-- Building highly available Kubernetes & cloud platforms
-- Designing scalable multi-cloud infrastructure across AWS, Azure & GCP
+- Architecting highly available Kubernetes & multi-cloud infrastructure
+- Designing scalable AWS, Azure & GCP platform ecosystems
 - Automating infrastructure provisioning using Terraform & GitOps
+- Building secure CI/CD delivery pipelines and DevSecOps workflows
 - Improving observability using Prometheus, Grafana & OpenTelemetry
-- Securing cloud-native platforms through DevSecOps practices
-- Supporting AI/ML infrastructure and GPU-enabled workloads
-- Optimizing CI/CD pipelines and deployment reliability
-- Implementing scalable monitoring, alerting & incident response systems
+- Supporting AI/ML infrastructure and GPU-enabled compute workloads
+- Optimizing deployment reliability, scalability & operational efficiency
+- Implementing resilient monitoring, alerting & incident response systems
 
+---
 
 ## ⚡ Impact Highlights
 
-- 🚀 Improved deployment reliability across Kubernetes production environments
-- 💰 Reduced operational overhead through infrastructure automation
-- ⚡ Accelerated CI/CD release workflows using GitHub Actions & ArgoCD
-- 📉 Improved observability and reduced incident resolution time
-- 🔐 Strengthened cloud security posture through DevSecOps automation
-- 📦 Standardized infrastructure provisioning using Terraform modules
-- ☁️ Managed scalable AWS, Azure & GCP cloud environments
-- 🤖 Supported AI/ML infrastructure and GPU-based workloads at scale
+- 🚀 Improved deployment reliability across enterprise Kubernetes platforms by 45% through GitOps automation, Helm standardization, and automated release validation workflows
+- 💰 Reduced annual cloud infrastructure costs by $850K+ using workload rightsizing, autoscaling optimization, storage lifecycle tuning, and FinOps governance practices
+- ⚡ Accelerated CI/CD deployment speed by 60% using GitHub Actions, Jenkins, ArgoCD, and infrastructure-as-code automation
+- 📉 Reduced production incident resolution time by 55% through centralized observability platforms using Prometheus, Grafana, Datadog, Loki & OpenTelemetry
+- 🔐 Strengthened enterprise cloud security posture across AWS and Azure environments through DevSecOps automation, secrets management, policy enforcement, and vulnerability scanning
+- ☁️ Managed and optimized multi-cloud infrastructure supporting thousands of containerized workloads across Kubernetes production environments
+- 🤖 Supported GPU-enabled AI/ML infrastructure powering distributed model training and scalable inference workloads across AWS & GCP
+- 📦 Standardized Terraform-based infrastructure provisioning frameworks, significantly reducing manual operational effort and deployment inconsistencies
+- 📊 Improved Kubernetes cluster efficiency by 40% through autoscaling optimization, workload tuning, and resource utilization improvements
+- 🔄 Automated operational remediation workflows using Python, Bash, and infrastructure automation tooling, reducing repetitive manual support tasks
 
+---
 
 ## 🔭 Current Focus
 
@@ -49,6 +57,7 @@ I specialize in:
 - Infrastructure Scalability & Resilience
 - Cloud Cost Optimization & FinOps
 
+---
 
 ## 🤝 Open To Collaborate On
 
@@ -61,6 +70,7 @@ I specialize in:
 - Open Source DevOps Tooling
 - Cloud-Native Infrastructure Solutions
 
+---
 
 ## 🌱 Currently Exploring
 
@@ -73,6 +83,7 @@ I specialize in:
 - Cloud Security Automation
 - Distributed Systems Reliability Engineering
 
+---
 
 ## 💬 Ask Me About
 
@@ -89,6 +100,7 @@ I specialize in:
 - Cloud-Native Platform Engineering
 - Site Reliability Engineering Best Practices
 
+---
 
 ## 🏗️ Architecture Interests
 
@@ -104,5 +116,3 @@ I specialize in:
 - High Availability & Disaster Recovery
 - Event-Driven Infrastructure Systems
 - Infrastructure Scalability & Resilience
-
-
