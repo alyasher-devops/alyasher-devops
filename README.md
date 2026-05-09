@@ -193,3 +193,82 @@ I specialize in:
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Enterprise Kubernetes Modernization Platform
+
+Built enterprise-grade Kubernetes infrastructure across AWS EKS environments using Terraform, Helm, ArgoCD, and GitOps automation to modernize legacy deployment workflows and improve platform scalability.
+
+### Key Outcomes
+
+- Improved deployment consistency and release reliability across Kubernetes production environments
+- Automated infrastructure provisioning and GitOps deployment workflows using Terraform & ArgoCD
+- Standardized Kubernetes platform operations, monitoring, and configuration management
+- Improved scalability, workload orchestration, and operational efficiency for cloud-native services
+
+---
+
+## 🔹 Centralized Observability & Reliability Engineering
+
+Implemented enterprise observability platforms using Prometheus, Grafana, Datadog, Loki, OpenTelemetry, and CloudWatch for monitoring cloud-native infrastructure and distributed production systems.
+
+### Key Outcomes
+
+- Improved production telemetry visibility across Kubernetes and cloud infrastructure environments
+- Accelerated incident detection and troubleshooting using centralized monitoring & alerting systems
+- Reduced operational blind spots through distributed tracing and infrastructure observability
+- Strengthened SRE operational workflows and incident response processes
+
+---
+
+## 🔹 Secure CI/CD & DevSecOps Automation
+
+Designed secure CI/CD pipelines and DevSecOps workflows using GitHub Actions, Jenkins, Terraform, Vault, container security tooling, and GitOps deployment practices.
+
+### Key Outcomes
+
+- Streamlined deployment automation and release engineering workflows
+- Improved secrets management, vulnerability scanning, and cloud security governance
+- Standardized secure CI/CD practices across cloud-native application environments
+- Reduced manual operational overhead through infrastructure automation and policy enforcement
+
+---
+
+## 🔹 AI/ML Infrastructure & GPU Operations
+
+Supported GPU-enabled AI/ML infrastructure across AWS and GCP environments using Kubernetes orchestration, distributed compute automation, and cloud-native infrastructure tooling.
+
+### Key Outcomes
+
+- Improved orchestration and scalability for distributed AI/ML workloads
+- Supported GPU-intensive compute and containerized inference environments
+- Enhanced infrastructure monitoring and operational visibility for AI platforms
+- Improved reliability and automation for Kubernetes-based AI infrastructure operations
+
+---
+
+# 📬 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/aly-asher-747ab639a/
+- 📧 Email: alyasher9@gmail.com
+
+---
+
+# ✨ Professional Focus
+
+✔ Kubernetes Platform Engineering  
+✔ Cloud Infrastructure Automation  
+✔ DevOps & Site Reliability Engineering  
+✔ GitOps & CI/CD Modernization  
+✔ Observability & Monitoring Platforms  
+✔ Multi-Cloud AWS, Azure & GCP Operations  
+✔ DevSecOps & Cloud Security  
+✔ Infrastructure as Code & Terraform  
+✔ AI/ML Infrastructure Operations  
+✔ Cloud-Native Platform Reliability  
+✔ Distributed Systems & Scalability  
+✔ Disaster Recovery & Operational Resilience
