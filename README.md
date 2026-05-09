@@ -11,7 +11,9 @@ Designing resilient cloud-native platforms, scalable Kubernetes infrastructure, 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alyasher-devops&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Kubernetes+%7C+Terraform+%7C+AWS;DevOps+%7C+SRE+%7C+Cloud+Infrastructure;GitOps+%7C+CI%2FCD+%7C+Observability;Prometheus+%7C+Grafana+%7C+Datadog;AWS+%7C+Azure+%7C+GCP;Platform+Engineering+%7C+Automation" alt="Typing SVG" />
+</p>
 ---
 
 ## 🚀 About Me
